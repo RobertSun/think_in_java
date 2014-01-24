@@ -8,3 +8,4 @@
 .checkstyle
 .project
 .classpath
+/bin
