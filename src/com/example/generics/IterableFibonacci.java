@@ -2,9 +2,6 @@ package com.example.generics;
 
 import java.util.Iterator;
 
-/**
- * Created by Devin on 2015/12/9.
- */
 //: generics/IterableFibonacci.java
 // Adapt the Fibonacci class to make it Iterable.
 public class IterableFibonacci extends Fibonacci implements Iterable<Integer> {
